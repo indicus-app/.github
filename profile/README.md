@@ -7,6 +7,8 @@ Bun venit pe pagina de GitHub a Indicus, o aplicație mobilă simplă și intuit
 
 Indicus este disponibil în prezent pentru platformele Android și [web](https://web.indicus.ro), iar în curând vom lansa și versiunile pentru Windows, MacOS, Linux și iOS, astfel încât utilizatorii să poată accesa Indicus de pe orice dispozitiv.
 
+<img src="https://raw.githubusercontent.com/indicus-app/.github/main/google-play-badge.png" alt="Play Store" height="70" />
+
 Aici veți găsi informații despre modul de utilizare a Indicus și despre cum puteți contribui la dezvoltarea continuă a acesteia. De asemenea, puteți trimite sugestii, întrebări și probleme pe care le întâmpinați utilizând Indicus și puteți lua parte la discuțiile noastre interactive pe GitHub.
 
 În cazul în care doriți să sprijiniți dezvoltarea continuă a Indicus, puteți face o donație prin intermediul platformei [BuyMeACoffee](https://www.buymeacoffee.com/indicus.app). Donațiile sunt o modalitate excelentă de a ne ajuta să menținem aplicația actualizată și să adăugăm noi funcționalități, astfel încât să putem oferi utilizatorilor noștri o experiență și mai bună. Fiecare donație, indiferent de mărime, este apreciată și ajută la susținerea proiectului nostru.
