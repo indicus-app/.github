@@ -11,7 +11,7 @@ Bun venit pe pagina de GitHub a Indicus, o aplicație mobilă simplă și intuit
 
 Indicus este disponibil în prezent pentru platformele Android și [web](https://web.indicus.ro), iar în curând vom lansa și versiunile pentru Windows, MacOS, Linux și iOS, astfel încât utilizatorii să poată accesa Indicus de pe orice dispozitiv.
 
-<a href="https://play.google.com/store/apps/details?id=ro.indicus" target="_new"><img src="https://raw.githubusercontent.com/indicus-app/.github/main/google-play-badge.png" alt="Play Store" height="70" /></a> <img src="https://raw.githubusercontent.com/indicus-app/.github/main/chrome-web-store-badge.png" alt="Chrome Web Store" height="70" />
+<a href="https://play.google.com/store/apps/details?id=ro.indicus" target="_new"><img src="https://raw.githubusercontent.com/indicus-app/.github/main/google-play-badge.png" alt="Play Store" height="70" /></a>
 
 
 Aici veți găsi informații despre modul de utilizare a Indicus și despre cum puteți contribui la dezvoltarea continuă a acesteia. De asemenea, puteți trimite sugestii, întrebări și probleme pe care le întâmpinați utilizând Indicus și puteți lua parte la discuțiile noastre interactive pe GitHub.
