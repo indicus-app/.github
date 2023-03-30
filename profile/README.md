@@ -9,7 +9,7 @@ Bun venit pe pagina de GitHub a Indicus, o aplicație mobilă simplă și intuit
 
 ## Descarcă
 
-[Indicus](https://indicus.ro/) este disponibil în prezent pentru platformele Android și web, iar în curând vom lansa și versiunile pentru Windows, MacOS, Linux și iOS, astfel încât utilizatorii să poată accesa Indicus de pe orice dispozitiv.
+[Indicus](https://indicus.ro/) este disponibil în prezent pentru platformele Android, Windows și web, iar în curând vom lansa și versiunile pentru Windows, MacOS, Linux și iOS, astfel încât utilizatorii să poată accesa Indicus de pe orice dispozitiv.
 
 <a href="https://play.google.com/store/apps/details?id=ro.indicus" target="_new"><img src="https://raw.githubusercontent.com/indicus-app/.github/main/google-play-badge.png" alt="Play Store" height="70" /></a> <a href="https://apps.microsoft.com/store/detail/indicus-romanian-economic-indices/9NZFT1PSXTRX" target="_new"><img src="https://raw.githubusercontent.com/indicus-app/.github/main/windows-store-badge.png" alt="Windows Store" height="70" /></a> <a href="https://web.indicus.ro/#/" target="_new"><img src="https://raw.githubusercontent.com/indicus-app/.github/main/web-badge.png" alt="Web" height="70" /></a>
 
