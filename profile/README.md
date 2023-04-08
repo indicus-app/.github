@@ -1,6 +1,6 @@
 # Indicus: Indici Economici
 
-Bun venit pe pagina de GitHub a Indicus, o aplicație mobilă simplă și intuitivă care oferă utilizatorilor acces la valorile zilnice ale diferiților indici economici esențiali. Printre indicii economici expuși de Indicus se numără:
+Bun venit pe pagina de GitHub a Indicus, o aplicație mobilă simplă și intuitivă care oferă utilizatorilor acces la valorile zilnice ale diferiților indici economici esențiali din România. Printre indicii economici expuși de Indicus se numără:
 
 - ROBOR și ROBID, două dintre cei mai importanți indici de referință pentru piața creditelor bancare din România
 - IRCC (Indicele de referință pentru creditele consumatorilor), un alt indice esențial în industria bancară din România
